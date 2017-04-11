@@ -6,6 +6,10 @@ function1
 ---------
 function2
 ---------
+i am the master
+jsdsdx
+sdvsdvsdkv
+shdsd
 --------
 --------
 function3
@@ -14,4 +18,3 @@ function3
 ---------
 <body>
 <head>
-
